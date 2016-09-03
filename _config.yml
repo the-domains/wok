@@ -1,19 +1,4 @@
-name: wok
-favicon: null
-layout_spectrum: 0.7123547855298966
 typography_spectrum: 0.5503072480205446
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,23 @@ color:
   lightness: 0.010672258213162422
   saturation: 0.575187343172729
   rhythmicContrast: 0.49930032528936863
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7123547855298966
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: wok
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: personal
+    url: 'http://baoquocdoan.com'
+    type: external
+favicon: null
 purpose: []
