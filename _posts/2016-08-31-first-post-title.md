@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T23:37:25.318Z'
+datePublished: '2016-08-31T23:40:40.749Z'
+sourcePath: _posts/2016-08-31-first-post-title.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T23:37:10.908Z'
+dateModified: '2016-08-31T23:40:40.321Z'
 title: First Post Title
 publisher: {}
 description: This is the first post
 starred: false
-sourcePath: _posts/2016-08-31-first-post-title.md
 _type: Blurb
 
 ---
